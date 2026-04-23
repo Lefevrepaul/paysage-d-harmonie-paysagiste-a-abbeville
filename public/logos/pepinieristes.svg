@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="96" viewBox="0 0 320 96">
+  <rect width="320" height="96" rx="18" fill="#ffffff"/>
+  <rect x="10" y="10" width="300" height="76" rx="14" fill="#e8f5e9" opacity=".55"/>
+  <circle cx="48" cy="50" r="18" fill="#9ccc65" opacity=".9"/>
+  <path d="M48 60c9-8 15-17 17-30-14 2-25 8-29 18-5 10-4 18-4 18s8 1 16-6Z" fill="#1a2f1c" opacity=".9"/>
+  <text x="92" y="56" font-size="20" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" fill="#1a2f1c" font-weight="600">
+    Partenaires p�pini�ristes
+  </text>
+</svg>
+
