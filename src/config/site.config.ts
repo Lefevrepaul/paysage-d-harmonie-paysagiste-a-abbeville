@@ -1,7 +1,7 @@
 export const siteConfig = {
   company: {
     name: "Paysage d'Harmonie",
-    tagline: "Votre paysagiste de confiance à Abbeville et ses environs",
+    tagline: "Votre paysagiste à Abbeville",
     description: "Paysage d'Harmonie vous accompagne dans tous vos projets d'aménagement paysager à Abbeville et dans la région des Hauts-de-France. Création de jardins, entretien d'espaces verts, aménagement extérieur : notre expertise de 5 ans et nos 38 réalisations témoignent de notre savoir-faire."
   },
   contact: {
